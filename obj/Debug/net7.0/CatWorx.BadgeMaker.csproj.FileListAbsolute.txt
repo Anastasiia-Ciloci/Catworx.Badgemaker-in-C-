@@ -1,0 +1,15 @@
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\bin\Debug\net7.0\CatWorx.BadgeMaker.exe
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\bin\Debug\net7.0\CatWorx.BadgeMaker.deps.json
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\bin\Debug\net7.0\CatWorx.BadgeMaker.runtimeconfig.json
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\bin\Debug\net7.0\CatWorx.BadgeMaker.dll
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\bin\Debug\net7.0\CatWorx.BadgeMaker.pdb
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\obj\Debug\net7.0\CatWorx.BadgeMaker.csproj.AssemblyReference.cache
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\obj\Debug\net7.0\CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\obj\Debug\net7.0\CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\obj\Debug\net7.0\CatWorx.BadgeMaker.AssemblyInfo.cs
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\obj\Debug\net7.0\CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\obj\Debug\net7.0\CatWorx.BadgeMaker.dll
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\obj\Debug\net7.0\refint\CatWorx.BadgeMaker.dll
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\obj\Debug\net7.0\CatWorx.BadgeMaker.pdb
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\obj\Debug\net7.0\CatWorx.BadgeMaker.genruntimeconfig.cache
+C:\Users\Anastasiia\Bootcamp\On-my-own\C#\CatWorx.BadgeMaker\obj\Debug\net7.0\ref\CatWorx.BadgeMaker.dll
